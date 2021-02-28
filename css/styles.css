@@ -1,0 +1,113 @@
+body{
+  background-color: #f5f5f5 !important;
+}
+h1{
+  padding-bottom: 1rem;
+  color: white !important;
+  font-size: 2.2rem !important;
+}
+a{
+  font-weight: 600;
+}
+
+.caro-p{
+  font-size: 1rem;
+  padding-bottom: 2rem;
+  color: rgba(255, 255, 255, 0.781);
+}
+.carosal-link{
+  color: #0cf3f3 !important;
+}
+.carosal-link:hover{
+  text-decoration: none;
+  color: #a6e6e6 !important;
+  border-bottom: 2px solid #a6e6e6 ;
+}
+.nav-space
+{
+  margin-right: 1rem;
+}
+.navbar{
+  margin: 0rem 5.9rem 0rem 7rem !important;
+  background-color: #f5f5f5;
+}
+.nav-space:hover{
+    background-color: rgb(70, 190, 190);
+    color: white  !important;
+}
+.top-brand{
+    font-size: 3rem !important; 
+    color: rgb(120, 120, 120);
+    margin-left: -1rem;
+}
+
+.conainer{
+  padding: 3rem 6rem 7rem 4rem;
+  background-color: rgba(0, 0, 0, 0.726);
+  text-align: left;
+  margin-left: 7rem;
+  margin-bottom: 2rem;
+  width: 25rem;
+  float: left;
+}
+.conainer2{
+  float: left;
+ 
+}
+.con-3{
+  width: 46.4375rem;
+  height: 29.9rem;
+  background-size: cover;
+  background-position: center;
+}
+
+.prev1{
+ background-size: 20px;
+ background-color: white;
+}
+.holder{
+  position: relative;
+  left: 7.89rem;
+}
+.card-image{
+ width:90% !important;
+ height: 8rem;  
+ padding-top: 9px;
+ padding-left: 23px;
+}
+.card-body{
+  width: 23.5rem !important;
+}
+.cd{
+padding: 4rem 2rem 0rem 3rem;
+background-color: #ffffff;
+width: 85%;
+margin-top: -2rem;
+}
+.card-title{
+  padding-left: 21px;
+}
+.card-body{
+  padding: 2rem 4.5rem 2rem 1.6rem !important;
+}
+.cd1{
+  border: none !important;
+}
+.carousal-a{
+  padding-top: 2rem;
+}
+.cta{
+  padding: 3rem 6rem 7rem 4rem;
+  background-color: rgba(0, 0, 0, 0.76);
+  margin: 0rem 5.7rem 0rem 7rem;
+}
+.cta-btn{
+  position: relative;
+  left:54rem;
+  top:-10rem;
+  background-color: #16cccc !important;
+}
+.cta-text{
+  padding-right: 36rem;
+  color: white;
+}
